@@ -10,24 +10,25 @@
 
 ## Estrutura de Avaliação (4 Entregas)
 
-### 🔹 Avaliação 1 – Página HTML Estruturada (Semana 4)
+### 🔹 Avaliação 1 – Página HTML Estruturada + CSS Básico (Semana 4)
 
 * Conteúdo: HTML básico + semântica
-* Entrega: Página institucional simples (sobre você ou empresa fictícia)
+* Entrega: Página de Currículo
 
 ### 🔹 Avaliação 2 – Página Estilizada com CSS Responsivo (Semana 8)
 
 * Conteúdo: HTML + CSS + Media Queries
-* Entrega: Página institucional com layout responsivo
+* Entrega: Landing Page de Venda de Produtos
 
 ### 🔹 Avaliação 3 – Página Interativa com JavaScript (Semana 12)
 
 * Conteúdo: DOM, eventos, funções
-* Entrega: Página interativa (ex: calculadora, formulário com validação)
+* Entrega: Página interativa (Todo List)
 
 ### 🔹 Avaliação 4 – Projeto Final Versionado no Git (Semana 20)
 
 * Conteúdo: Projeto completo (HTML + CSS + JS + Git + conceitos Web)
+* Entrega: Página Hamburgueria
 
 ---
 
@@ -61,7 +62,7 @@
 
 ---
 
-### Aula 3 – HTML: Tags, Atributos e Semântica
+### Aula 3 – HTML: Tags, Atributos, Semântica e CSS Básico
 
 **Conceitos:**
 
@@ -71,7 +72,7 @@
 
 **Atividade:**
 
-* Montar página institucional simples
+* Montar página de currículo
 
 ---
 
@@ -126,7 +127,7 @@
 
 **Atividade:**
 
-* Adaptar layout para celular e tablet
+* Landing Page de Venda de Produtos responsiva
 
 ---
 
@@ -191,7 +192,7 @@
 
 **Atividade:**
 
-* Criar mini-aplicação interativa
+* Página interativa (Todo List)
 
 ➡️ **Entrega Avaliação 3**
 
@@ -292,6 +293,7 @@
 **Atividade:**
 
 * Apresentação dos projetos versionados
+* Entrega final -  Página Hamburgueria
 
 ➡️ **Entrega Avaliação 4 – Projeto Final**
 
