@@ -44,3 +44,27 @@
 *{
     margin:0;
 }
+.pesquisa{
+    padding: 1vh 5vw 1vh 1vw;
+    border: none;
+    outline: #BE580F;
+    font-size: 1rem;
+    border-radius: 10px;
+    width: 400px;
+}
+.input_container{
+    padding: 2vw;
+    border-radius: 20px;
+    background-color: rgba(213, 213, 213, 0.628);
+}
+.livros{
+    height: 100vh;
+    padding: 2vw;
+}
+.card{
+    background-color: gray;
+    width: 100px;
+    height: 150px;
+    border-radius: 15px;
+    color: white;
+}
